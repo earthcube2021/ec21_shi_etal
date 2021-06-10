@@ -1,4 +1,4 @@
-# AutoGluon Notebook Submission to EC2021 
+# EC2021: Automated Machine Learning for Earth Science via AutoGluon
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_shi_etal/HEAD?filepath=Xingjian_Shi_01_Automated_Machine_Learning_for_Earth_Science_via_AutoGluon.ipynb)
 
