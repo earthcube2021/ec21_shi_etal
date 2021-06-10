@@ -1,6 +1,6 @@
 # AutoGluon Notebook Submission to EC2021 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sxjscience/EC2021_autogluon_notebook/HEAD?filepath=Xingjian_Shi_01_Automated_Machine_Learning_for_Earth_Science_via_AutoGluon.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_shi_etal/HEAD?filepath=Xingjian_Shi_01_Automated_Machine_Learning_for_Earth_Science_via_AutoGluon.ipynb)
 
 
 Notebook that demonstrates the usage of [AutoGluon](https://github.com/awslabs/autogluon) at [EarthCube 2021](https://www.earthcube.org/2021-earthcube-annual-meeting).
