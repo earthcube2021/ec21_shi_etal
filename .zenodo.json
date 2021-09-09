@@ -1,0 +1,13 @@
+{
+    "title": "Automated Machine Learning for Earth Science via AutoGluon",
+    "creators": [
+       {"name": "Xingjian Shi", "affiliation": "Amazon Web Services"   },
+    {"name": "Wen-ming Ye", "affiliation": "Amazon Web Services" },
+    {"name": "Nick Erickson", "affiliation": "Amazon Web Services" },
+    {"name": "Jonas Mueller", "affiliation": "Amazon Web Services" },
+    {"name": "Alexander Shirkov", "affiliation": "Amazon Web Services" },
+    {"name": "Zhi Zhang", "affiliation": "Amazon Web Services" },
+    {"name": "Mu Li", "affiliation": "Amazon Web Services" },
+    {"name": "Alexander Smola", "affiliation": "Amazon Web Services" } 
+    ] 
+}
