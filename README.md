@@ -1,5 +1,9 @@
 # EC2021: Automated Machine Learning for Earth Science via AutoGluon
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496359.svg)](https://doi.org/10.5281/zenodo.5496359)
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_shi_etal/HEAD?filepath=Xingjian_Shi_01_Automated_Machine_Learning_for_Earth_Science_via_AutoGluon.ipynb)
 
 
